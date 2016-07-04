@@ -9,6 +9,12 @@ gem 'sass-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
+## Gemfile for Rails 3+, Sinatra, or Merb
+gem 'will_paginate', '~> 3.0.5'
+
+
+
+
 # Use postgresql as the database for Active Record
 gem 'pg'
 
