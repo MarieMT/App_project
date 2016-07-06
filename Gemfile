@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails_12factor', group: :production
 
 gem 'bootstrap-sass',  '~> 3.3.5.1'
+gem 'simple_form'
 gem 'sprockets', '2.11.0'
 gem 'sass-rails'
 
@@ -11,9 +12,6 @@ gem 'rails', '4.0.1'
 
 ## Gemfile for Rails 3+, Sinatra, or Merb
 gem 'will_paginate', '~> 3.0.5'
-
-
-
 
 # Use postgresql as the database for Active Record
 gem 'pg'
